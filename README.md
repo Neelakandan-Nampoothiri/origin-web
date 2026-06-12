@@ -6,7 +6,7 @@ Origin is a modern, premium landing page built using React, Tailwind CSS, and Fr
 
 ## 🌐 Live Demo
 
-https://originapp.onrender.com/
+https://origin-webio.vercel.app/
 
 ---
 
